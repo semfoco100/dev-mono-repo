@@ -1,0 +1,12 @@
+- [x] Projeto estruturado com Frontend, Backend e Docker
+- [x] Docker Compose para desenvolvimento (docker-compose.yml)
+- [x] Docker Compose para produção (docker-compose.prod.yml)
+- [x] Backend Express com rotas básicas
+- [x] Frontend React com componentes e estilos
+- [ ] Integração com APIs das plataformas
+- [ ] Migrations do banco de dados
+- [ ] Autenticação JWT
+- [ ] Sistema de cache Redis
+- [ ] Sistema de notificações
+- [ ] CI/CD com GitHub Actions
+- [ ] Deploy em produção
